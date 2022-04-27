@@ -1,0 +1,35 @@
+{
+    "background_color": "#ffffff",
+    "description": "КОНТАКТИ",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "КОНТАКТИ",
+    "orientation": "portrait",
+    "scope": "/index.html",
+    "short_name": "КОНТАКТИ",
+    "start_url": "/index.html",
+    "theme_color": "#ffffff",
+    "icons": [
+          {
+              "src": "https://anton99999.github.io/cont/img/icon-192x192.png",
+              "sizes": "192x192",
+              "type": "image/png"
+          },
+          {
+              "src": "https://anton99999.github.io/cont/img/icon-256x256.png",
+              "sizes": "256x256",
+              "type": "image/png"
+          },
+          {
+              "src": "https://anton99999.github.io/cont/img/icon-384x384.png",
+              "sizes": "384x384",
+              "type": "image/png"
+          },
+          {
+              "src": "https://anton99999.github.io/cont/img/icon-512x512.png",
+              "sizes": "512x512",
+              "type": "image/png"
+          }
+      ]
+  }
+  
