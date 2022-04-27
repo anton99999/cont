@@ -5,9 +5,9 @@
     "display": "standalone",
     "name": "КОНТАКТИ",
     "orientation": "portrait",
-    "scope": "/index.html",
+    "scope": "/cont/index.html",
     "short_name": "КОНТАКТИ",
-    "start_url": "/index.html",
+    "start_url": "/cont/index.html",
     "theme_color": "#ffffff",
     "icons": [
           {
